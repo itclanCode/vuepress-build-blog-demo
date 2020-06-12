@@ -15,6 +15,18 @@ cnpm install
 or
 yarn install
 ```
+### 项目启动
+```
+npm run dev
+or
+yarn dev
+
+```
+### 项目构建打包
+```
+npm run build
+
+```
 
 ### 目录树结构
 
