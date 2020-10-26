@@ -4,7 +4,7 @@
 
 ### vuepress-build-blog-demo 介绍
 
-[itclanCoder 博客](http://doc.itclan.cn)就是基于此简易版进行模块化拆分和改造的
+[itclanCoder 博客](https://coder.itclan.cn)就是基于此简易版进行模块化拆分和改造的
 
 ### 安装
 
